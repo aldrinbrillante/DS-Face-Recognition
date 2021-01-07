@@ -1,0 +1,5 @@
+1. install/launch virtual environment
+    pip3 install pipenv
+    pipenv shell -> which will start your virtenv
+2. Install face_recognition
+    pipenv install face_recognition
