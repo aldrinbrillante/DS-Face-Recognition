@@ -1,4 +1,4 @@
 # DS-Face-Recognition
 
-# iSpy - Image Facial Recognition Project
+# iSpy: Image Facial Recognition Project
  
