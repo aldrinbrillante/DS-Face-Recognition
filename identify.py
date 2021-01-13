@@ -75,11 +75,11 @@ known_face_names = [
 ]
 
 # Load test image to find faces in
-test_image = face_recognition.load_image_file('./img/groups/group1.png')
+# test_image = face_recognition.load_image_file('./img/groups/group1.png')
 # test_image = face_recognition.load_image_file('./img/groups/random-group.png')
 
 ####BEWARE OF THIS RUN SEMI RIGHT####
-# test_image = face_recognition.load_image_file('./img/groups/su-funny.png')
+test_image = face_recognition.load_image_file('./img/groups/su-funny.png')
 
 
 # Find faces in test image
