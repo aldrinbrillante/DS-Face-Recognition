@@ -1,6 +1,6 @@
 ###################################################################################################
 #                                 Identify Faces Goal:
-# identify faces and draw a bx around them with their names. If known face, labeled 'unknown'
+# identify faces and draw a box around them with their names. If known face, labeled 'unknown'
 ###################################################################################################
 
 
