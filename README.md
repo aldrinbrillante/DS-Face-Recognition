@@ -3,6 +3,7 @@
 # iSpy: Image Facial Recognition Project
 
 Proposal [here](https://docs.google.com/document/d/12iFi-njYLTo5-jTEv0X56_OAn3hO_OEeITk1sGpZ2tw/edit?usp=sharing)
+
 Presentation Slides [here](https://docs.google.com/presentation/d/1sICR2ALa4zBfvfZdneIPmjuQ2IYyhBl8h7PhrXv6V1M/edit#slide=id.p)
 
 ### iSpy Project Goals:
